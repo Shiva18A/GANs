@@ -3,6 +3,7 @@
 Below is the architectural diagram of DCGAN
 ![image](https://github.com/Shiva18A/GANs/blob/main/imgs_results/dcgan.jpg?raw=true "architecture")
 
+
 Trained DCGAN on STL10 dataset. Each image is of size 3x96x96. Trained DCGAN for 50 Epochs on T4x2 GPU's and batch size of 128. 
 Below are the results
 ![image](https://github.com/Shiva18A/GANs/blob/main/imgs_results/output_images.png?raw=true "results")
